@@ -1,0 +1,8 @@
+.Info {
+  text-align: center;
+}
+
+.InfoContainer {
+  display: flex;
+  justify-content: center;
+}

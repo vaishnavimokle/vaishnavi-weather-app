@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  height: 100vh;
+  background: linear-gradient(135deg, #5fb7ff, #feb47b);
+  opacity: 0;
+  animation: fadeIn 3s ease-in-out forwards;
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}
